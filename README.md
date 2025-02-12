@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- GitHub Profile README Template -->
 
-<!--
-**Arhaan-Abdullah-Pro/Arhaan-Abdullah-Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm ARHAAN ABDULLAH </h1>
+<h3 align="center"> ASPIRING DATA ANALYST </h3>
 
-Here are some ideas to get you started:
+<!-- Animated Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+a+Full-Stack+Developer;I+love+coding+and+learning+new+technologies" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## About Me
+
+I'm a passionate developer who loves to solve problems and build scalable applications. I enjoy exploring new technologies and collaborating on innovative projects.
+
+- 🔭 I’m currently working on: IMAGE CLASSIFICATION
+- 🌱 I’m currently learning: SQL & POWER-BI
+- 👯 I’m looking to collaborate on: DATA ANALYST RELATED PROJECT
+- 💬 Ask me about: PYTHON, ADVANCE EXCEL, SQL
+- 📫 How to reach me: arhaanabdullah.pro@gmail.com
+- ⚡ Fun fact: I love Reading Books
+
+---
+
+## Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,power-bi,dax-queries,excel," alt="Tech Icons" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <!-- Replace your-username with your GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
