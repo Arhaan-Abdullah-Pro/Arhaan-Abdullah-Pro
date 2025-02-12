@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a passionate developer who loves to solve problems and build scalable applications. I enjoy exploring new technologies and collaborating on innovative projects.
+<h3 align="center">I'm a passionate developer who loves to solve problems and build scalable applications. I enjoy exploring new technologies and collaborating on innovative projects.<h3>
 
 - 🔭 I’m currently working on: IMAGE CLASSIFICATION
 - 🌱 I’m currently learning: SQL & POWER-BI
