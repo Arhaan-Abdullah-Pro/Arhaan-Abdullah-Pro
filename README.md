@@ -10,16 +10,16 @@
 
 <!-- Social Media Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/arhaan-abdullah-pro">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
+<!--   <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/your-instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="arhaanabdullah.pro@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -42,7 +42,7 @@ I'm a passionate developer who loves to solve problems and build scalable applic
 ## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,power-bi,dax-queries,excel," alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=python,sql,power-bi,dax-queries,excel," alt="Tech Icons"/>
 </p>
 
 ---
@@ -51,6 +51,6 @@ I'm a passionate developer who loves to solve problems and build scalable applic
 
 <p align="center">
   <!-- Replace your-username with your GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?https://github.com/Arhaan-Abdullah-Pro=https://github.com/Arhaan-Abdullah-Pro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Arhaan-Abdullah-Pro=https://github.com/Arhaan-Abdullah-Pro&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
